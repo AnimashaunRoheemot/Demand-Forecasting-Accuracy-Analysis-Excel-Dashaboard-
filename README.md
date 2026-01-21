@@ -118,7 +118,7 @@ The Excel dashboard includes:
 
 ### Dashboard Preview
 
-![Demand Forecasting Dashboard](images/dashboard_overview.png)
+![Demand Forecasting Dashboard](https://github.com/AnimashaunRoheemot/Demand-Forecasting-Accuracy-Analysis-Excel-Dashaboard-/blob/main/Forecast%20and%20demand%20accuracy.png)
 
 ---
 
